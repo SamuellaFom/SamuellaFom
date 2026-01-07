@@ -1,4 +1,4 @@
-## Hi 👋, I'm Samuella Fom</h1>
+## I'm Samuella Fom
 <h6>Computer Science Graduate | Aspiring Software Engineer | Future Master’s Student</h6>
 
 ---
